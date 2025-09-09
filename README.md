@@ -152,4 +152,5 @@ This project is open source and available under the MIT License.
 For questions or feedback, please contact:
 
 sushant.dwivedi.dev@gmail.com 
+
 GitHub: [sushantdwivedi](https://github.com/sushantdwivedi)
