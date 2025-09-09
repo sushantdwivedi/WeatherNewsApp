@@ -2,6 +2,7 @@
 
 A modern, iOS-inspired React Native app built with Expo and TypeScript that fetches and displays current weather information and news headlines. The app features unique weather-based news filtering logic and customizable user settings.
 
+[WeatherApp APK](https://drive.google.com/file/d/1PgfX-Y-KaF1hcZlbLsL9F_GfdoTEC8L4/view?usp=sharing)
 ---
 
 ## Features
@@ -59,8 +60,8 @@ A modern, iOS-inspired React Native app built with Expo and TypeScript that fetc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-news-app.git
-   cd weather-news-app
+   git clone https://github.com/sushantdwivedi/WeatherNewsApp.git
+   cd WeatherNewsApp
    ```
 
 2. Install dependencies:
@@ -74,7 +75,7 @@ A modern, iOS-inspired React Native app built with Expo and TypeScript that fetc
    - No API key needed for Open-Meteo.  
 
 4. Configure API key:
-   - Open `src/api/newsApi.ts`  
+   - Open `.env`  
    - Replace `'YOUR_NEWSAPI_AI_KEY'` with your actual NewsAPI.ai key.  
 
 ### Running the App
@@ -150,5 +151,5 @@ This project is open source and available under the MIT License.
 
 For questions or feedback, please contact:
 
-**Your Name** – your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+sushant.dwivedi.dev@gmail.com 
+GitHub: [sushantdwivedi](https://github.com/sushantdwivedi)
